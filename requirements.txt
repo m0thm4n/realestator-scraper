@@ -1,0 +1,12 @@
+bs4
+selenium
+numpy 
+pandas
+regex
+requests
+lxml
+prettify
+htmltext
+pymysql
+sqlalchemy
+cryptography
